@@ -9,13 +9,13 @@ A simple Python project to analyze and visualize student marks.
 - Generates a bar chart of student marks
 - Exports data to CSV and chart to PNG
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python
 - pandas
 - matplotlib
 
 ## Sample Output
-![Chart](marks_chart.png)
+image is saved (marks_chart.png)
 
 ##  Output File
 - `student_marks_output.csv`: Contains the student name and marks data.
@@ -34,4 +34,4 @@ A simple Python project to analyze and visualize student marks.
 
 ### Author
 Vijayalakshmi S  
-📧 viji232004@gmail.com
+viji232004@gmail.com
