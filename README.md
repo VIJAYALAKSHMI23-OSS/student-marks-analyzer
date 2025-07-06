@@ -33,5 +33,5 @@ image is saved (marks_chart.png)
 ---
 
 ### Author
-Vijayalakshmi S  
+Vijayalakshmi S.  
 viji232004@gmail.com
